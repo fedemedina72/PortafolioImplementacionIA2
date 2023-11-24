@@ -12,6 +12,7 @@ Dentro del portafolio se encuentran distintos archivos importantes:
 - Actividad 5. [Regresión logística](RegresionLogistica.pdf)
 - Actividad 7. [Introducción a series de tiempo](SeriesTiempo.pdf)
 - Actividad 8. [Series de tiempo no estacionarias](Tendencias.pdf)
+- [Implementación de un modelo de Deep Learning](Implementación_de_un_Modelo_de_Deep_Learning.pdf)
 
 
 ## Cloud computing | Actividad 6 - Cloud migration
@@ -35,3 +36,5 @@ Esta actividad se utilizó como una introducción a lo que sería las Series de 
 ## Actividad 8. Series de tiempo no estacionarias
 En esta se hace una continuación de lo que sería la Actividad 7 al introducirnos nuevamente al tema pero dando un paso más adelante en cuanto a nivel técnico. Dentro de esta actividad se realizan diferentes gráficos para observar tendencias, ciclos, estacionalidades y diferentes conceptos que anteriormente no se habían podido aplicar.
 
+## Implementación de un modelo de Deep Learning
+Para dicha entrega se utilizó un framework de Tensorflow para entrenar un modelo de aprendizaje profundo para después evaluar su desempeño y realizar ajustes. Después, se utilizaron datos reales para probar si el modelo realmente funcionaba con datos reales y no solamente con datos con los cuales se entrenó. Finalmente se encuentran los resultados del modelo y observaciones que se hicieron del mismo.
