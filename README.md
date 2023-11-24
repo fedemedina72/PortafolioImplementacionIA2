@@ -12,7 +12,7 @@ Dentro del portafolio se encuentran distintos archivos importantes:
 - Actividad 5. [Regresión logística](RegresionLogistica.pdf)
 - Actividad 7. [Introducción a series de tiempo](SeriesTiempo.pdf)
 - Actividad 8. [Series de tiempo no estacionarias](Tendencias.pdf)
-- [Implementación de un modelo de Deep Learning](Implementación_de_un_Modelo_de_Deep_Learning.pdf)
+- Implementación de un modelo de Deep Learning
 - [Evidencia Big Data](Portafolio_BigData.pdf)
 
 
